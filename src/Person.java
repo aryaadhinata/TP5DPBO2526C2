@@ -3,14 +3,16 @@ public class Person {
     private String nama;
     private int tahunLahir;
     private String kategori;
-    private String email; // atribut baru
+    private String jenisKelamin; // atribut baru (CheckBox)
+    private String email;        // atribut baru (TextField)
 
     // Constructor
-    public Person(String id, String nama, int tahunLahir, String kategori, String email) {
+    public Person(String id, String nama, int tahunLahir, String kategori, String jenisKelamin, String email) {
         this.id = id;
         this.nama = nama;
         this.tahunLahir = tahunLahir;
         this.kategori = kategori;
+        this.jenisKelamin = jenisKelamin;
         this.email = email;
     }
 
@@ -45,6 +47,14 @@ public class Person {
 
     public void setKategori(String kategori) {
         this.kategori = kategori;
+    }
+
+    public String getJenisKelamin() {
+        return jenisKelamin;
+    }
+
+    public void setJenisKelamin(String jenisKelamin) {
+        this.jenisKelamin = jenisKelamin;
     }
 
     public String getEmail() {

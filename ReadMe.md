@@ -86,9 +86,23 @@ Berikut adalah alur logika untuk operasi pada program:
 
 ## iii. Dokumentasi Program Dijalankan
 
-### 1. Bukti Video (Screencast)
+### 1. Bukti Video (Screencast) & GIF
 Tonton video demo lengkap yang menunjukkan seluruh proses:
 **[Tonton video demo CRUD](Documentation/TP5Doc.mp4)**
+
+## Documentation
+
+![Documentation 1](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%287%29.gif)
+
+![Documentation 2](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%286%29.gif)
+
+![Documentation 3](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%285%29.gif)
+
+![Documentation 4](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%284%29.gif)
+
+![Documentation 5](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%283%29.gif)
+
+![Documentation 6](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%282%29.gif)
 
 ### 2. Operasi CRUD Utama
 *   **READ (Tampilan Awal)**: Tabel terisi oleh data bawaan dari database MySQL saat aplikasi pertama kali dijalankan.

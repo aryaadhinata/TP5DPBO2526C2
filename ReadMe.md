@@ -5,7 +5,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) berbasis Java Swing dengan tema **P
 ## Janji
 
 ```text
-Saya Mohammad Arya Dhinata dengan NIM 2504992 mengerjakan Tugas Praktikum dalam mata kuliah Desain
+Saya Mohammad Arya Dhinata dengan NIM 2504992 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain
 Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti
 yang di spesifikasikan. Aamiin
 ```
@@ -90,7 +90,7 @@ Berikut adalah alur logika untuk operasi pada program:
 
 ### 1. Bukti Video (Screencast)
 Tonton video demo lengkap yang menunjukkan seluruh proses:
-**[Tonton video demo CRUD](Documentation/TP4Doc.mp4)**
+**[Tonton video demo CRUD](Documentation/TP5Doc.mp4)**
 
 ### 2. Operasi CRUD Utama
 *   **READ (Tampilan Awal)**: Tabel terisi oleh data bawaan dari database MySQL saat aplikasi pertama kali dijalankan.

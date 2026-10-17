@@ -90,8 +90,6 @@ Berikut adalah alur logika untuk operasi pada program:
 Tonton video demo lengkap yang menunjukkan seluruh proses:
 **[Tonton video demo CRUD](Documentation/TP5Doc.mp4)**
 
-## Documentation
-
 ![Documentation 1](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%287%29.gif)
 
 ![Documentation 2](Documentation/TP5Doc-ezgif.com-video-to-gif-converter%20%286%29.gif)

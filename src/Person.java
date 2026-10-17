@@ -3,15 +3,15 @@ public class Person {
     private String nama;
     private int tahunLahir;
     private String kategori;
-    private String jenisKelamin; // atribut baru
+    private String email; // atribut baru
 
     // Constructor
-    public Person(String id, String nama, int tahunLahir, String kategori, String jenisKelamin) {
+    public Person(String id, String nama, int tahunLahir, String kategori, String email) {
         this.id = id;
         this.nama = nama;
         this.tahunLahir = tahunLahir;
         this.kategori = kategori;
-        this.jenisKelamin = jenisKelamin;
+        this.email = email;
     }
 
     // Getter dan Setter
@@ -47,11 +47,11 @@ public class Person {
         this.kategori = kategori;
     }
 
-    public String getJenisKelamin() {
-        return jenisKelamin;
+    public String getEmail() {
+        return email;
     }
 
-    public void setJenisKelamin(String jenisKelamin) {
-        this.jenisKelamin = jenisKelamin;
+    public void setEmail(String email) {
+        this.email = email;
     }
 }

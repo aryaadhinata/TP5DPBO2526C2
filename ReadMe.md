@@ -86,8 +86,6 @@ Berikut adalah alur logika untuk operasi pada program:
 
 ## iii. Dokumentasi Program Dijalankan
 
-*(Catatan: Anda dapat melampirkan Screenshot asli pada bagian ini. Berikut adalah daftar visualisasi fitur yang telah diimplementasikan dalam bentuk referensi)*
-
 ### 1. Bukti Video (Screencast)
 Tonton video demo lengkap yang menunjukkan seluruh proses:
 **[Tonton video demo CRUD](Documentation/TP5Doc.mp4)**
